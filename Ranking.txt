@@ -1,0 +1,8 @@
+200.0;Ale
+135.0;Julian
+150.0;Pepe
+170.0;Carlo
+40.0;Miguel
+10.0;Agustin
+70.0;Alberto
+17.0;Mauricio

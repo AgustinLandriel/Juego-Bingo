@@ -1,0 +1,117 @@
+# depslib dependency file v1.0
+1604180353 source:d:\final bingo\bingofinal\jugadorstruct.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+	"jugadorStruct.h"
+
+1604177576 d:\final bingo\bingofinal\jugadorstruct.h
+
+1604072791 source:d:\final bingo\bingofinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+	"jugadorStruct.h"
+	"procedimientos.h"
+
+1604180599 d:\final bingo\bingofinal\procedimientos.h
+
+1604180221 source:d:\final bingo\bingofinal\procedimientos.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+	"jugadorStruct.h"
+	"procedimientos.h"
+
+1604267807 source:d:\final bingo\bingofinal\bingofinal\jugadorstruct.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+	"jugadorStruct.h"
+
+1604163176 d:\final bingo\bingofinal\bingofinal\jugadorstruct.h
+
+1604309525 source:d:\final bingo\bingofinal\bingofinal\rankingstruct.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+	"rankingStruct.h"
+
+1604309543 d:\final bingo\bingofinal\bingofinal\rankingstruct.h
+
+1604308774 source:d:\final bingo\bingofinal\bingofinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+	"jugadorStruct.h"
+	"procedimientos.h"
+	"rankingStruct.h"
+
+1604311367 d:\final bingo\bingofinal\bingofinal\procedimientos.h
+	"rankingStruct.h"
+
+1604313018 source:d:\final bingo\bingofinal\bingofinal\procedimientos.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+	"jugadorStruct.h"
+	"procedimientos.h"
+	"rankingStruct.h"
+
+1604290774 source:d:\downloads\bingofinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+	"jugadorStruct.h"
+	"procedimientos.h"
+	"rankingStruct.h"
+
+1604148776 d:\downloads\bingofinal\jugadorstruct.h
+
+1604293366 d:\downloads\bingofinal\procedimientos.h
+	"rankingStruct.h"
+
+1604291542 d:\downloads\bingofinal\rankingstruct.h
+
+1604323625 source:d:\downloads\bingofinal\rankingstruct.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+	"rankingStruct.h"
+
+1604295324 source:d:\downloads\bingofinal\jugadorstruct.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+	"jugadorStruct.h"
+
+1604323510 source:d:\downloads\bingofinal\procedimientos.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+	"jugadorStruct.h"
+	"procedimientos.h"
+	"rankingStruct.h"
+
